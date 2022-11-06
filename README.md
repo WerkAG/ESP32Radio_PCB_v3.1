@@ -1,4 +1,4 @@
-# ESP32Radio-V2 PCB
+# ESP32Radio-V2, PCB v3.1
 Printed Circuit Board for the ESP32Radio-V2 from Ed Smallenburg
 
 Allows the use of the PAM8403 amplifier module and/or a bluetooth transmitter module (kcx_bt_emitter)   
