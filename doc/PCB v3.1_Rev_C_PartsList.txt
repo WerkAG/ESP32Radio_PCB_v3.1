@@ -24,3 +24,9 @@ BT_COM
 LED
 3mm Blue Led
 
+Misc
+MH ET LIVE ESP32MiniKit
+VS1053 module
+
+
+
