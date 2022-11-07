@@ -8,8 +8,9 @@ Updates:
  
 As microcontroller this PCB uses the MH ET LIVE ESP32MiniKit.<br> 
 The PCB is designed to allow the use of one mini amplifier module (PAM8403) and/or a bluetooth transmitter module (kcx_bt_emitter).<br>
-There are connectors for the supported display types (TFT, LCD), the rotary encoder, the IR receiver and a expansion port with pins connected to GPIO12, GPI013, GPIO14 and GPIO34. MISO, MOSI, SLCK pins are also available on the expansion port.<br>
+There are connectors for the supported display types (TFT, LCD, Nextion not tested), the rotary encoder, the IR receiver and a expansion port with pins connected to GPIO12, GPI013, GPIO14 and GPIO34. MISO, MOSI, SLCK pins are also available on the expansion port.<br>
 When using the PAM8403 amplifier, to avoid common noise problems, the Analog GND from the VS1053 must be connected to pin 8 of the PAM8403 chip. This solution proved to be very effective.<br>
+Circuit to turn ON/OFF the TFT backlight is also implemented. Control is done by the ESP32Radio software.<br>
 Power supply is 5V DC.<br>
 <br>
 
