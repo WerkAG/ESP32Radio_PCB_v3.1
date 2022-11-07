@@ -4,7 +4,15 @@
 Updates:
 - 2022-11-06, PCB v3.1 Rev C
 
-PCB allows the use of the PAM8403 amplifier module and/or a bluetooth transmitter module (kcx_bt_emitter)   
+ ** **
+ 
+As microcontroller this PCB uses the MH ET LIVE ESP32MiniKit. 
+The PCB is designed to allow the use of one mini amplifier module (PAM8403) and/or a bluetooth transmitter module (kcx_bt_emitter).
+There are connectors for the supported display types (TFT, LCD), the rotary encoder, the IR receiver and a expansion port with pins connected to GPIO12, GPI013, GPIO14 and GPIO34. MISO, MOSI, SLCK pins are also available on the expansion port.
+When using the PAM8403 amplifier, to avoid common noise problems, the Analog GND from the VS1053 must be connected to pin 8 of the PAM8403 chip. This solution proved to be very effective.
+Power supply is 5V DC.
+
+ ** **
 
 ![ESP32_WebRadio_PCB_v3 2_01](https://user-images.githubusercontent.com/14356332/200154388-d73d5ee6-fb64-46e0-a4de-ef9e7894c342.jpg)
 
