@@ -27,6 +27,8 @@ LED
 Misc
 MH ET LIVE ESP32MiniKit
 VS1053 module
+Several 2.54mm male pin headers
+3 x KF128 2 pin screw connectors (2.54mm)
 
 
 
