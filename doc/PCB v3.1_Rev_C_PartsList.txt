@@ -1,0 +1,26 @@
+PCB v3.1 Rev C - Parts List
+
+SMD 0806 Resistors
+R1 22K
+R2 100K
+R3 10K
+R4 4.7R
+R5 10K
+R6 1K
+R7 1K
+R8 330R
+
+Capacitors
+C1 470uF/16V
+C2 47uF/16V
+C3 220uF/16V
+
+Transistors
+T1 NDS352AP
+
+Push Buttom
+BT_COM
+
+LED
+3mm Blue Led
+
