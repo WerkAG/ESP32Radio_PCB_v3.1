@@ -20,7 +20,7 @@ Power supply is 5V DC.<br>
  ** **
 
 **Example of one unit using the PAM8403 amplifier.** <br>
-The black wire connects the Analog GND (marked as NC on the PCB) from the VS1053 to pin 8 of the PAM8403 chip.<br>
+The black wire connects the Analog GND from the VS1053 (marked as NC on the PCB), to pin 8 of the PAM8403 chip.<br>
 
 ![ESP32_WebRadio_PCB_v3 2_03](https://user-images.githubusercontent.com/14356332/200154441-9933c375-fe29-425d-9619-b77ff17f3648.jpg)
  <br>
