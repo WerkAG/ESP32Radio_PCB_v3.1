@@ -10,13 +10,13 @@ PCB allows the use of the PAM8403 amplifier module and/or a bluetooth transmitte
 
 ![ESP32_WebRadio_PCB_v3 2_02](https://user-images.githubusercontent.com/14356332/200154434-14eb3337-b357-42a4-9562-9909f6c829ba.jpg)
  
- 
+ ** **
  
 **Example of one unit using the PAM8403 amplifier.**
 
 ![ESP32_WebRadio_PCB_v3 2_03](https://user-images.githubusercontent.com/14356332/200154441-9933c375-fe29-425d-9619-b77ff17f3648.jpg)
  
- 
+ ** **
  
 **Example of a second unit using the kcx_bt_emitter bluetooth module.**
 
