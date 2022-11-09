@@ -1,4 +1,6 @@
-PCB v3.1 Rev C - Parts List
+ESP32Radio PCB v3.1 Rev C
+
+PARTS LIST
 
 RESISTORS SMD 0806
 R1 22K
