@@ -1,6 +1,6 @@
 PCB v3.1 Rev C - Parts List
 
-SMD 0806 Resistors
+RESISTORS SMD 0806
 R1 22K
 R2 100K
 R3 10K
@@ -10,25 +10,24 @@ R6 1K
 R7 1K
 R8 330R
 
-Capacitors
+CAPACITORS
 C1 470uF/16V
 C2 47uF/16V
 C3 220uF/16V
 
-Transistors
+TRANSISTORS
 T1 NDS352AP
 
-Push Buttom
-BT_COM
-
 LED
-3mm Blue Led
+3mm Blue Led (optional)
 
-Misc
+MISC PARTS
 MH ET LIVE ESP32MiniKit
 VS1053 module
-Several 2.54mm male pin headers
+3.5mm Stereo Jack PJ-313
+everal 2.54mm male pin headers
 3 x KF128 2 pin screw connectors (2.54mm)
+Push Buttom (optional)
 
 
 
