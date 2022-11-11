@@ -20,7 +20,8 @@ Power supply is 5V DC.<br>
  ** **
 
 **Example of one unit using the PAM8403 amplifier.** <br>
-The black wire on the picture isn't a patch, it connects the Analog GND from the VS1053 through a 47uF capacitor to pin 8 of the PAM8403 chip. This effectively cancels any noise on the speakers.<br>
+The black wire on the picture isn't a patch, it connects the Analog GND (GBUF) from the VS1053 through a 47uF capacitor to VREF (pin 8) of the PAM8403 chip. This effectively cancels any noise on the speakers.<br>
+Many hobbyists are hiding the huge problem of connecting an amplifier directly to the output of the VS1053B module. Everyone plugs in the headphones or amplifiers with a separate power supply and is happy with it. The problem is that as soon as you connect an amplifier with common ground to the VS1053 module, you hear very strong digital noise, which even drowns out the useful signal.<br>
 
 ![ESP32_WebRadio_PCB_v3 2_03](https://user-images.githubusercontent.com/14356332/200154441-9933c375-fe29-425d-9619-b77ff17f3648.jpg)
  <br>
