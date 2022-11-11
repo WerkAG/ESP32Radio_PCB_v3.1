@@ -19,7 +19,7 @@ Power supply is 5V DC.<br>
  <br>
  ** **
 
-**Example of one unit using the PAM8403 amplifier.** <br>
+**Example of one unit using the PAM8403 amplifier.** <br><br>
 The black wire on the picture isn't a patch, it connects the Analog GND (GBUF) from the VS1053 through a 47uF capacitor to VREF (pin 8) of the PAM8403 chip. This effectively cancels any noise on the speakers.<br>
 Many hobbyists are hiding the huge problem of connecting an amplifier directly to the output of the VS1053B module. Everyone plugs in the headphones or amplifiers with a separate power supply and is happy with it. The problem is that as soon as you connect an amplifier with common ground to the VS1053 module, you hear very strong digital noise, which even drowns out the useful signal.<br>
 
