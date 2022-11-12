@@ -1,0 +1,71 @@
+clk_dst = 1                 # Offset during daylight saving time (hours)
+clk_offset = 0              # Offset with respect to UTC in hours
+clk_server = pool.ntp.org   # Time server to be used
+#
+ir_02FD = preset = 25       # Button 4
+ir_20DF = mute
+ir_38C7 = preset = 1        # Button 1
+ir_40BF = upvolume = 2
+ir_609F = uppreset = 1
+ir_629D = preset = 9        # Button 9
+ir_A25D = preset = 23       # Button 8
+ir_C03F = downvolume = 2
+ir_E01F = downpreset = 1
+ir_E21D = preset = 0        # Button 8
+#
+mqttbroker = none
+mqttpasswd = none
+mqttport = 1883
+mqttprefix = none
+mqttuser = none
+#
+pin_enc_clk = 25           # GPIO Pin for rotary encoder "CLK"
+pin_enc_dt = 26            # GPIO Pin for rotary encoder "DT"
+pin_enc_sw = 27            # GPIO Pin for rotary encoder "SW"
+pin_ir = 35                # GPIO Pin for IR receiver VS1838B
+pin_tft_blx = 33
+pin_tft_cs = 15            # GPIO Pin for TFT "CS"
+pin_tft_dc = 2             # GPIO Pin for TFT "DC"
+pin_vs_cs = 5              # GPIO Pin for VS1053 "CS"
+pin_vs_dcs = 32            # GPIO Pin for VS1053 "DCS"
+pin_vs_dreq = 4            # GPIO Pin for VS1053 "DREQ"
+#
+preset = 11
+preset_000 = pianosolo.streamguys.net/live                      # 00- Solo Piano Radio
+preset_001 = radiocast.rtp.pt/antena180a.mp3                    # 01- Antena 1
+preset_002 = radiocast.rtp.pt/antena280a.mp3                    # 02- Antena 2
+preset_003 = radiocast.rtp.pt/antena380a.mp3                    # 03- Antena 3
+preset_004 = mcrscast.mcr.iol.pt/m80                            # 04- M80
+preset_005 = mcrscast.mcr.iol.pt/smoothfm                       # 05- Smooth FM
+preset_006 = 20863.live.streamtheworld.com/RFM_SC               # 06- RFM
+preset_007 = tsfdirecto.tsf.pt/tsfdirecto.mp3                   # 07- TSF
+preset_008 = radiocast.rtp.pt/antena2jazzin80a.mp3              # 08- JazzIn
+preset_009 = strm112.1.fm/rockclassics_mobile_mp3               # 09- 1.FM Classic Rock
+preset_010 = streaming.hotmix-radio.net/hotmixradio-90-128.mp3  # 10- Hotmix Radio 90s
+preset_011 = airspectrum.cdnstream1.com:8114/1648_128           # 11- Easy Hits Florida 128k
+preset_012 = airspectrum.cdnstream1.com:8000/1261_192           # 12- Magic Oldies Florida
+preset_013 = strm112.1.fm/crock_mobile_mp3                      # 13- 1.FM Classic Rock Replay
+preset_014 = 178.32.111.41:8039/stream-128kmp3-HealingMusic     # 14- Relaxing Music
+preset_015 = streams.radiobob.de/bob-80srock/mp3-192/streams.radiobob.de   # 15- Radio Bob
+preset_016 = streamer.radio.co/sa7bf61271/listen                           # 16- JB's Rock N Roll
+preset_017 = air-tunein.radioart.com/fAura.mp3                # 17- RadioArt - Aura
+preset_018 = stream12.iloveradio.de/iloveradio2-aac.mp3       # 18- Radio Dance Music
+preset_019 = 174.36.206.197:8000/stream                       # 19- Venice Classic Radio
+preset_020 = ice6.somafm.com/suburbsofgoa-128-mp3             # 20- SomaFM - Suburbs of Goa
+preset_021 = 144.217.158.59:5120/stream                       # 21- Smooth Jazz Florida
+preset_022 = s2.radio.co/sc00bf91e1/listen                    # 22- Smooth Jazz South Florida
+preset_023 = 101smoothjazz.cdnstream1.com/b22139_128mp3       # 23- 101 SMOOTH JAZZ
+preset_024 = streaming.live365.com/b77280_128mp3              # 24- Aardvark BluesFM
+preset_025 = cast3.radiohost.ovh:8352                         # 25- Blues Radio
+preset_026 = ais-sa2.cdnstream1.com/1992_128.mp3              # 26- Blues Music Fan
+preset_027 = ice1.somafm.com/seventies-128-mp3                # 27- SomaFM Left Coast 70s
+#
+toneha = 2
+tonehf = 10
+tonela = 8
+tonelf = 14
+#
+volume = 44
+#
+wifi_00 = Aldeao WF1/1928374650AC
+wifi_01 = Meteo Cercal/meteo/cercal
