@@ -67,5 +67,5 @@ tonelf = 14
 #
 volume = 44
 #
-wifi_00 = Aldeao WF1/1928374650AC
-wifi_01 = Meteo Cercal/meteo/cercal
+wifi_00 = Aldeao/xxxxxxxxxxxxxxxxxx
+wifi_01 = Meteo/xxxxxxxxxxxxx
