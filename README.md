@@ -29,5 +29,6 @@ Many hobbyists are hiding the huge problem of connecting an amplifier directly t
 
 **Example of a second unit using the kcx_bt_emitter bluetooth module.** <br>
 
-![IMG_20221106_040153_472](https://user-images.githubusercontent.com/14356332/200154453-ab6679a0-d180-4eff-9ae0-a9640cdbe652.jpg)
+![IMG_20221113_050903_479](https://user-images.githubusercontent.com/14356332/201507650-d6aeef9c-f1ef-495b-8586-b36859739626.jpg)
 <br>
+
