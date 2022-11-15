@@ -25,7 +25,6 @@ Many hobbyists are hiding the huge problem of connecting an amplifier directly t
 
 ![ESP32_WebRadio_PCB_v3 2_03](https://user-images.githubusercontent.com/14356332/200154441-9933c375-fe29-425d-9619-b77ff17f3648.jpg)
  <br>
- ![ ](https://github.com/Edzelf/ESP32-Radio/raw/master/esp32radio.jpg)
  ** **
 
 **Example of a second unit using the kcx_bt_emitter bluetooth module.** <br>
