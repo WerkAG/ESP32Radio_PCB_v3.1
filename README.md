@@ -14,8 +14,6 @@ Circuit to turn ON/OFF the TFT backlight is also implemented. Control is done by
 Power supply is 5V DC.<br>
 <br>
 
-![ESP32_WebRadio_PCB_v3 2_01](https://user-images.githubusercontent.com/14356332/200154388-d73d5ee6-fb64-46e0-a4de-ef9e7894c342.jpg)
-
 ![ESP32_WebRadio_PCB_v3 2_02](https://user-images.githubusercontent.com/14356332/200154434-14eb3337-b357-42a4-9562-9909f6c829ba.jpg)
  <br>
  ** **
